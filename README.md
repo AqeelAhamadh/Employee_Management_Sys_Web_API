@@ -1,7 +1,7 @@
 # Falcons_employee_mangement_web_api
 This is the backend repository for the react front end ,   ASP .netcore 3.1 version
 
-Application frontend : https://github.com/NdaAZ/Falcons_employee_mangement_react-app
+Application frontend : https://github.com/AqeelAhamadh/Employee_Managment_Sys_React_front-end.git
 
 Website: https://loquacious-cucurucho-cb7e57.netlify.app/
 
